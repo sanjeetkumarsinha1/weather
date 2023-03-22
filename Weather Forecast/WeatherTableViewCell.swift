@@ -2,7 +2,7 @@
 //  WeatherTableViewCell.swift
 //  Weather Forecast
 //
-//  Created by chetu on 21/03/23.
+//  Created by sanjeet on 21/03/23.
 //
 
 import UIKit

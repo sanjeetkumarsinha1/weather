@@ -2,7 +2,7 @@
 //  WeatherData.swift
 //  Weather Forecast
 //
-//  Created by chetu on 20/03/23.
+//  Created by sanjeet on 20/03/23.
 //
 
 import Foundation
@@ -106,19 +106,3 @@ struct Coordinate: Codable {
     let lat: Double
     let lon: Double
 }
-
-
-//class WeatherData {
-//    let city: String
-//    let temperature: Double
-//    let humidity: Int
-//    let windSpeed: Double
-//
-//    init(city: String, temperature: Double, humidity: Int, windSpeed: Double) {
-//        self.city = city
-//        self.temperature = temperature
-//        self.humidity = humidity
-//        self.windSpeed = windSpeed
-//    }
-//}
-

@@ -2,7 +2,7 @@
 //  WeatherApp.swift
 //  Weather Forecast
 //
-//  Created by chetu on 20/03/23.
+//  Created by sanjeet on 20/03/23.
 //
 
 import UIKit
